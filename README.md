@@ -12,4 +12,4 @@ Its a machine learning project which predicts the expected minimum salary and ma
 - Use count vectorizer to list words liks skills required for a particular job.
 
 ## Project link:
-My project link on kaggle [link](https://www.kaggle.com/prabhat12/current-job-posting)
+My project on kaggle [link](https://www.kaggle.com/prabhat12/current-job-posting).
